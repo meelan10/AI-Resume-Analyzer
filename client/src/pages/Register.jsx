@@ -8,7 +8,7 @@ function Register() {
     email: "",
     password: "",
     confirmPassword: "",
-  })
+  });
 
   function handleChange(e) {
     setFormData({
