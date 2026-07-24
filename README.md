@@ -1,3 +1,2 @@
 ﻿# AI-Resume-Analyzer
- 
-#
+
